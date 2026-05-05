@@ -1,33 +1,25 @@
-![Alonso Díaz Jiménez](banner.png)# 🖥️ alonsodzj | HPC Engineer Cluster
+![Alonso Díaz Jiménez](banner.png)
+
+# Alonso Díaz | Computer-HPC Engineer
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alonsodzj&label=NODES%20ACCESSED&color=e6db74&style=flat-square" alt="Nodes Accessed" />
   <img src="https://img.shields.io/badge/System-Online-A6E22E?style=flat-square" alt="Status" />
 </p>
 
-> **High-Performance Computing Engineer** especializado en optimización de kernels, arquitecturas paralelas y gestión de cargas de trabajo a gran escala.
+> **Computer Science Engineer, HPC, Data analysis, Embeeded systems, Cybersecurity**Specializing in parallel architectures and high-performance, sustainable software development within Agile environments.**
+> *Expertise in agile workflows and performance-oriented software optimization.*
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alonsodzj&theme=monokai&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alonsodzj&show_icons=true&theme=monokai&count_private=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonsodzj&layout=compact&theme=monokai&hide_border=true" height="170" />
-</p>
-
----
-
 ### 🛠️ Hardware & Software Stack
 | Capability | Technologies |
 | :--- | :--- |
 | **Parallel Computing** | `MPI` `OpenMP` `Pthreads` |
 | **GPU Acceleration** | `CUDA` `OpenACC` `ROCm` |
-| **Workload Managers** | `Slurm` `PBS` `LSF` |
-| **Infrastructure** | `InfiniBand` `Lustre` `Apptainer/Singularity` |
-
 ---
 
 ### 📉 Core Usage & Consistency
