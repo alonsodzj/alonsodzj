@@ -1,4 +1,4 @@
-# 🖥️ alonsodzj | HPC Engineer Cluster
+![Alonso Díaz Jiménez](banner.png)# 🖥️ alonsodzj | HPC Engineer Cluster
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alonsodzj&label=NODES%20ACCESSED&color=e6db74&style=flat-square" alt="Nodes Accessed" />
