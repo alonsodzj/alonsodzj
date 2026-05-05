@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/System-Online-A6E22E?style=flat-square" alt="Status" />
 </p>
 
-> **Computer Science Engineer, HPC, Data analysis, Embeeded systems, Cybersecurity** Expert in parallel architectures and high-performance, sustainable software development within Agile environments.**
+> **Computer Science Engineer, HPC, Data analysis, Embeeded systems, Cybersecurity** Expert in parallel architectures and high-performance, sustainable software development within Agile environments.
 > *Expertise in agile workflows and performance-oriented software optimization.*
 
 <p align="center">
