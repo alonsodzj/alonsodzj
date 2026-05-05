@@ -1,13 +1,14 @@
 ![Alonso Díaz Jiménez](banner.png)
 
-# Alonso Díaz | Computer-HPC Engineer
+# Alonso Díaz | Computer Engineer
+# | HPC | Data analysis | Embeeded Systems | Software Architecture
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alonsodzj&label=NODES%20ACCESSED&color=e6db74&style=flat-square" alt="Nodes Accessed" />
   <img src="https://img.shields.io/badge/System-Online-A6E22E?style=flat-square" alt="Status" />
 </p>
 
-> **Computer Science Engineer, HPC, Data analysis, Embeeded systems, Cybersecurity**Specializing in parallel architectures and high-performance, sustainable software development within Agile environments.**
+> **Computer Science Engineer, HPC, Data analysis, Embeeded systems, Cybersecurity** Expert in parallel architectures and high-performance, sustainable software development within Agile environments.**
 > *Expertise in agile workflows and performance-oriented software optimization.*
 
 <p align="center">
@@ -15,14 +16,14 @@
 </p>
 
 ---
-### 🛠️ Hardware & Software Stack
+### Hardware & Software Stack
 | Capability | Technologies |
 | :--- | :--- |
 | **Parallel Computing** | `MPI` `OpenMP` `Pthreads` |
 | **GPU Acceleration** | `CUDA` `OpenACC` `ROCm` |
 ---
 
-### 📉 Core Usage & Consistency
+### Usage & Consistency
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alonsodzj&theme=monokai&hide_border=true" width="100%" />
 </p>
