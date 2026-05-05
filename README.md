@@ -1,1 +1,1 @@
-![Mi Banner](nombre-de-tu-archivo.png)
+![Mi Banner](banner.png)
