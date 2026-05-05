@@ -1,5 +1,6 @@
 ![Alonso Díaz Jiménez](banner.png)
 # 🖥️ alonsodzj | HPC Engineer Cluster
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alonsodzj&theme=black-ice)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alonsodzj&label=NODES%20ACCESSED&color=00ff00&style=flat-square" alt="Nodes Accessed" />
@@ -16,9 +17,9 @@ Este widget genera una animación de una serpiente que "devora" tus bloques de c
 
 ---
 
-### 📊 System Diagnostics (Stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alonsodzj&show_icons=true&theme=tokyonight&rank_icon=github&display_format=v2" height="150" />
+  <!-- Alternativa robusta -->
+  <img src="https://github-stats-alpha.vercel.app/api?username=alonsodzj&cc=000&tc=70a5fd&ic=bf91f3&bc=1a1b27" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonsodzj&layout=compact&theme=tokyonight" height="150" />
 </p>
 
