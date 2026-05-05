@@ -1,7 +1,7 @@
 ![Alonso Díaz Jiménez](banner.png)
 
 # Alonso Díaz | Computer Engineer
-# | HPC | Data analysis | Embeeded Systems | Software Architecture
+## | HPC | Data analysis | Embeeded Systems | Software Architecture
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alonsodzj&label=NODES%20ACCESSED&color=e6db74&style=flat-square" alt="Nodes Accessed" />
