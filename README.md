@@ -14,15 +14,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alonsodzj&theme=monokai&area=true&hide_border=true" width="100%" />
 </p>
-
 ---
-### Hardware & Software Stack
-| Capability | Technologies |
-| :--- | :--- |
-| **Parallel Computing** | `MPI` `OpenMP` `Pthreads` |
-| **GPU Acceleration** | `CUDA` `OpenACC` `ROCm` |
----
-
 ### Usage & Consistency
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alonsodzj&theme=monokai&hide_border=true" width="100%" />
