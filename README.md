@@ -11,15 +11,6 @@
 > **Computer Science Engineer, HPC, Data analysis, Embeeded systems, Cybersecurity.** Expert in parallel architectures and high-performance, sustainable software development within Agile environments.
 > *Expertise in agile workflows and performance-oriented software optimization.*
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alonsodzj&theme=monokai&area=true&hide_border=true" width="100%" />
-</p>
----
-### Usage & Consistency
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alonsodzj&theme=monokai&hide_border=true" width="100%" />
-</p>
-
 ### Find Me
 <p align="left">
   <a href="https://linkedin.com/in/TU_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-FD971F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
