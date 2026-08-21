@@ -13,6 +13,6 @@
 
 ### Find Me
 <p align="left">
-  <a href="https://linkedin.com/in/TU_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-FD971F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tu-email@dominio.com"><img src="https://img.shields.io/badge/Email-F92672?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/alonso-d%C3%ADaz-jim%C3%A9nez-307b34416/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-FD971F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:alonsodzj@gmail.com"><img src="https://img.shields.io/badge/Email-F92672?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
