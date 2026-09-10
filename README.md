@@ -6,8 +6,9 @@
 
 <p align="center">
   <a href="https://developer.nvidia.com/cuda-zone">
-    <img src="https://skillicons.dev/icons?i=c,cpp,github,vscode" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,github,vscode" alt="Skills" height="45" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://developer.nvidia.com/cuda-zone">
     <img src="https://img.shields.io/badge/GPU%20Computing-CUDA-%2376B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA Badge" height="45" />
   </a>
