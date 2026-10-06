@@ -4,22 +4,17 @@
 ## | HPC | Data analysis | Embedded Systems | Software Architecture 🇪🇸🇪🇺🇬🇧
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System-Online-A6E22E?style=flat-square" alt="Status" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/c/c-original.svg" height="72" align="center" alt="C">
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="72" align="center" alt="C++">
   &nbsp;&nbsp;
   <img src="cuda.svg" height="100" align="center" alt="CUDA">
 </p>
----
+
 
 > **Computer Science Engineer, HPC, Data Analysis, Embedded Systems, Cybersecurity.** Expert in parallel architectures and high-performance, sustainable software development within Agile environments.
 > *Expertise in agile workflows and performance-oriented software optimization.*
 
----
 
 <p align="right">
   <strong>Find me</strong><br><br>
