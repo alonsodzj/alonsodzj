@@ -1,20 +1,7 @@
-<p align="center">
-  <img src="banner.png" alt="Alonso Díaz Jiménez" />
-</p>
+<p align="center"><img src="ascii.svg" width="100%" alt="B-2 y jinete en ASCII"></p>
 
-<h1 align="center">Alonso Díaz - Computer Science Engineer</h1>
-
-<p align="center">
-  <a href="https://developer.nvidia.com/cuda-zone">
-    <img src="https://skillicons.dev/icons?i=c,cpp,github,vscode" alt="Skills" height="45" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://developer.nvidia.com/cuda-zone">
-    <img src="https://img.shields.io/badge/GPU%20Computing-CUDA-%2376B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA Badge" height="45" />
-  </a>
-</p>
-
-<h3 align="center">HPC | Data Analysis | Embedded Systems | Software Architecture 🇪🇸🇪🇺🇬🇧</h3>
+# Alonso Díaz | Computer Engineer
+## | HPC | Data analysis | Embedded Systems | Software Architecture 🇪🇸🇪🇺🇬🇧
 
 <p align="center">
   <img src="https://img.shields.io/badge/System-Online-A6E22E?style=flat-square" alt="Status" />
