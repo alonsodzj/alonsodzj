@@ -1,6 +1,6 @@
 <p align="center"><img src="ascii.svg" width="100%" alt="B-2 y jinete en ASCII"></p>
 
-# Alonso Díaz | Computer Engineer
+# Alonso Díaz, Computer Engineer
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="72" align="center" alt="C">
   &nbsp;&nbsp;
