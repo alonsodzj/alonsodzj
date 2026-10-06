@@ -16,9 +16,9 @@
 > *Expertise in agile workflows and performance-oriented software optimization.*
 
 <p align="left">
-  <a href="https://leetcode.com/u/alonsdzj/">
-    <img src="leetcode.svg" height="75" align="center" alt="LeetCode">
-  </a>
-    <a href="https://www.linkedin.com/in/alonso-d%C3%ADaz-jim%C3%A9nez-307b34416/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FD971F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:alonsodzj@gmail.com"><img src="https://img.shields.io/badge/Email-F92672?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/u/alonsodzj/"><img src="leetcode.svg" height="60" align="center" alt="LeetCode"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/alonso-d%C3%ADaz-jim%C3%A9nez-307b34416/"><img src="linkedin.svg" height="60" align="center" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:alonsodzjz@gmail.com"><img src="gmail.svg" height="60" align="center" alt="Gmail"></a>
 </p>
