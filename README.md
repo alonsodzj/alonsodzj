@@ -1,8 +1,6 @@
 <p align="center"><img src="ascii.svg" width="100%" alt="B-2 y jinete en ASCII"></p>
 
 # Alonso Díaz | Computer Engineer
-## | HPC | Data analysis | Embedded Systems | Software Architecture 🇪🇸🇪🇺🇬🇧
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/c/c-original.svg" height="72" align="center" alt="C">
   &nbsp;&nbsp;
@@ -10,6 +8,8 @@
   &nbsp;&nbsp;
   <img src="cuda.svg" height="100" align="center" alt="CUDA">
 </p>
+
+## | HPC | Data analysis | Embedded Systems | Software Architecture 🇪🇸🇪🇺🇬🇧
 
 
 > **Computer Science Engineer, HPC, Data Analysis, Embedded Systems, Cybersecurity.** Expert in parallel architectures and high-performance, sustainable software development within Agile environments.
