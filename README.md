@@ -9,7 +9,7 @@
   <img src="cuda.svg" height="100" align="center" alt="CUDA">
 </p>
 
-## | HPC | Data analysis | Embedded Systems | Software Architecture 🇪🇸🇪🇺🇬🇧
+## HPC - Data analysis - Embedded Systems - Software Architecture
 
 
 > **Computer Science Engineer, HPC, Data Analysis, Embedded Systems, Cybersecurity.** Expert in parallel architectures and high-performance, sustainable software development within Agile environments.
