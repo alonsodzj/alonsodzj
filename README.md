@@ -2,7 +2,7 @@
 
 # Alonso Díaz | Computer Engineer
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/c/c-original.svg" height="72" align="center" alt="C">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="72" align="center" alt="C">
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="72" align="center" alt="C++">
   &nbsp;&nbsp;
@@ -15,6 +15,11 @@
 > **Computer Science Engineer, HPC, Data Analysis, Embedded Systems, Cybersecurity.** Expert in parallel architectures and high-performance, sustainable software development within Agile environments.
 > *Expertise in agile workflows and performance-oriented software optimization.*
 
+<p align="left">
+  <a href="https://leetcode.com/u/alonsdzj/">
+    <img src="leetcode.svg" height="100" align="center" alt="LeetCode">
+  </a>
+</p>
 
 <p align="right">
   <strong>Find me</strong><br><br>
