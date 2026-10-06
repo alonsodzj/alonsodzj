@@ -17,6 +17,8 @@
 
 <p align="left">
   <a href="https://leetcode.com/u/alonsodzj/"><img src="leetcode.svg" height="60" align="center" alt="LeetCode"></a>
+</p>
+<p align="left">
   &nbsp;
   <a href="https://www.linkedin.com/in/alonso-d%C3%ADaz-jim%C3%A9nez-307b34416/"><img src="linkedin.svg" height="60" align="center" alt="LinkedIn"></a>
   &nbsp;
