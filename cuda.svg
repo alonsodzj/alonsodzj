@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="128" viewBox="0 0 384 128">
+  <style>
+    .fan{transform-box:fill-box;transform-origin:center;animation:spin 1.4s linear infinite}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    .shine{animation:sweep 3.5s ease-in-out infinite}
+    @keyframes sweep{0%,20%{transform:translateX(-120px)}70%,100%{transform:translateX(320px)}}
+  </style>
+  <defs>
+    <linearGradient id="band" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#76B900" stop-opacity="0"/>
+      <stop offset=".35" stop-color="#76B900" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#76B900"/>
+    </linearGradient>
+    <linearGradient id="matte" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a4d52"/><stop offset=".45" stop-color="#34373b"/><stop offset="1" stop-color="#232528"/>
+    </linearGradient>
+    <linearGradient id="alu" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9aa0a6"/><stop offset=".5" stop-color="#f1f3f5"/><stop offset="1" stop-color="#9aa0a6"/>
+    </linearGradient>
+    <linearGradient id="gloss" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".3"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="bandClip"><rect x="96" y="42" width="282" height="44" rx="8"/></clipPath>
+    <g id="fan">
+      <circle r="13.5" fill="#1b1d20"/>
+      <g fill="#2f3236"><path d="M0 0 C3 -6 9 -9 12.5 -5 C7 -4 3 -1.5 0 0Z" transform="rotate(0.0)"/><path d="M0 0 C3 -6 9 -9 12.5 -5 C7 -4 3 -1.5 0 0Z" transform="rotate(51.4)"/><path d="M0 0 C3 -6 9 -9 12.5 -5 C7 -4 3 -1.5 0 0Z" transform="rotate(102.9)"/><path d="M0 0 C3 -6 9 -9 12.5 -5 C7 -4 3 -1.5 0 0Z" transform="rotate(154.3)"/><path d="M0 0 C3 -6 9 -9 12.5 -5 C7 -4 3 -1.5 0 0Z" transform="rotate(205.7)"/><path d="M0 0 C3 -6 9 -9 12.5 -5 C7 -4 3 -1.5 0 0Z" transform="rotate(257.1)"/><path d="M0 0 C3 -6 9 -9 12.5 -5 C7 -4 3 -1.5 0 0Z" transform="rotate(308.6)"/></g>
+      <circle r="4" fill="#3d4045"/>
+    </g>
+  </defs>
+
+  <!-- banda verde difuminada -->
+  <g clip-path="url(#bandClip)">
+    <rect x="96" y="42" width="282" height="44" fill="url(#band)"/>
+    <rect class="shine" x="96" y="42" width="60" height="44" fill="url(#gloss)"/>
+  </g>
+  <path transform="translate(236 78.5)" fill="#ffffff" d="M14.921875 0.46875C22.36328125 0.46875 27.6171875 -4.0625 28.4375 -10.9375H20.25390625C19.74609375 -8.203125 17.87109375 -6.5625 15.078125 -6.5625C11.11328125 -6.5625 8.984375 -9.453125 8.984375 -14.53125C8.984375 -19.62890625 11.1328125 -22.5390625 15.078125 -22.5390625C17.87109375 -22.5390625 19.765625 -20.87890625 20.25390625 -18.125H28.4375C27.63671875 -25.0 22.36328125 -29.5703125 14.921875 -29.5703125C6.97265625 -29.5703125 0.78125 -24.2578125 0.78125 -14.53125C0.78125 -4.8828125 6.97265625 0.46875 14.921875 0.46875ZM45.681250000000006 0.46875C53.278906250000006 0.46875 58.220312500000006 -3.7890625 58.220312500000006 -10.3515625V-29.1015625H50.329687500000006V-11.015625C50.329687500000006 -8.30078125 48.415625000000006 -6.3671875 45.681250000000006 -6.3671875C42.985937500000006 -6.3671875 41.032812500000006 -8.3203125 41.032812500000006 -11.015625V-29.1015625H33.142187500000006V-10.3515625C33.142187500000006 -3.76953125 38.064062500000006 0.46875 45.681250000000006 0.46875ZM75.11250000000001 0.0C84.07734375000001 0.0 89.83906250000001 -5.703125 89.83906250000001 -14.53125C89.83906250000001 -23.37890625 83.97968750000001 -29.1015625 74.99531250000001 -29.1015625H63.745312500000004V0.0ZM71.87031250000001 -6.71875V-22.3828125H74.48750000000001C79.38984375000001 -22.3828125 81.63593750000001 -19.86328125 81.63593750000001 -14.53125C81.63593750000001 -9.23828125 79.46796875000001 -6.71875 74.72187500000001 -6.71875ZM93.0203125 0.0H101.90703125L103.3328125 -4.78515625H113.059375L114.44609375 0.0H123.58671875L113.7234375 -29.1015625H102.7859375ZM105.2078125 -11.03515625 105.2859375 -11.2890625C106.340625 -14.8046875 107.3171875 -18.203125 108.27421875 -21.73828125C109.21171875 -18.203125 110.16875 -14.8046875 111.184375 -11.2890625L111.2625 -11.03515625Z"/>
+
+  <!-- gráfica minimalista -->
+  <rect x="34" y="92" width="64" height="7" rx="1" fill="#c9a54a" opacity=".85"/>
+  <g fill="#8a7232"><rect x="38" y="94" width="1.5" height="5"/><rect x="42" y="94" width="1.5" height="5"/><rect x="46" y="94" width="1.5" height="5"/><rect x="50" y="94" width="1.5" height="5"/><rect x="54" y="94" width="1.5" height="5"/><rect x="66" y="94" width="1.5" height="5"/><rect x="70" y="94" width="1.5" height="5"/><rect x="74" y="94" width="1.5" height="5"/><rect x="78" y="94" width="1.5" height="5"/><rect x="82" y="94" width="1.5" height="5"/><rect x="86" y="94" width="1.5" height="5"/><rect x="90" y="94" width="1.5" height="5"/></g>
+  <rect x="5" y="36" width="4" height="56" rx="1" fill="url(#alu)"/>
+  <rect x="9" y="32" width="116" height="62" rx="8" fill="url(#alu)"/>
+  <rect x="11.5" y="34.5" width="111" height="57" rx="6" fill="url(#matte)"/>
+  
+  <circle cx="96" cy="63" r="23.5" fill="#1b1d20" stroke="#25272b" stroke-width="1"/>
+  <g transform="translate(96 63) scale(1.6)"><use class="fan" href="#fan"/></g>
+</svg>
