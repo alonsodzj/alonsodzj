@@ -17,7 +17,6 @@
 <h3 align="center">HPC | Data Analysis | Embedded Systems | Software Architecture 🇪🇸🇪🇺🇬🇧</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alonsodzj&label=NODES%20ACCESSED&color=e6db74&style=flat-square" alt="Nodes Accessed" />
   <img src="https://img.shields.io/badge/System-Online-A6E22E?style=flat-square" alt="Status" />
 </p>
 
