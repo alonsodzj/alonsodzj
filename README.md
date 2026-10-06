@@ -3,7 +3,7 @@
 # Alonso Díaz | Computer Engineer
 ## | HPC | Data analysis | Embedded Systems | Software Architecture 🇪🇸🇪🇺🇬🇧
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/c/c-original.svg" height="72" align="center" alt="C">
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="72" align="center" alt="C++">
