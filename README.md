@@ -17,12 +17,8 @@
 
 <p align="left">
   <a href="https://leetcode.com/u/alonsdzj/">
-    <img src="leetcode.svg" height="100" align="center" alt="LeetCode">
+    <img src="leetcode.svg" height="75" align="center" alt="LeetCode">
   </a>
-</p>
-
-<p align="right">
-  <strong>Find me</strong><br><br>
-  <a href="https://www.linkedin.com/in/alonso-d%C3%ADaz-jim%C3%A9nez-307b34416/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FD971F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/alonso-d%C3%ADaz-jim%C3%A9nez-307b34416/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FD971F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:alonsodzj@gmail.com"><img src="https://img.shields.io/badge/Email-F92672?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
