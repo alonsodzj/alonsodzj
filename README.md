@@ -14,6 +14,7 @@
 
 > **Computer Science Engineer, HPC, Data Analysis, Embedded Systems, Cybersecurity.** Expert in parallel architectures and high-performance, sustainable software development within Agile environments.
 > *Expertise in agile workflows and performance-oriented software optimization.*
+
 <a href="https://leetcode.com/u/alonsodzj/"><img src="leetcode-heatmap.svg" width="100%" alt="LeetCode"></a>
 <p align="left">
   <a href="mailto:alonsodzjz@gmail.com"><img src="gmail.svg" height="55" align="right" alt="Gmail"></a>
