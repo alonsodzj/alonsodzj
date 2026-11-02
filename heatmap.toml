@@ -42,7 +42,8 @@ more = "+"
 [animation]
 type = "pop"
 order = "diagonal"
+loop = true
+loop_pause = 3
 animate_text = true
-
-[interaction]
-effect = "repel"
+pulse_streak = true
+pulse_speed = 1.6
