@@ -1,0 +1,42 @@
+name: leetcode
+
+on:
+  schedule:
+    - cron: "17 23 * * *"
+  workflow_dispatch:
+  push:
+    paths: ["heatmap.toml", ".github/workflows/leetcode.yml"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: leetcode
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: alonsodzj/leetcode-heatmap@v1
+        with:
+          config: heatmap.toml
+      - run: mkdir -p _site && cp leetcode.svg leetcode.html _site/ && cp leetcode.html _site/index.html
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
