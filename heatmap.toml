@@ -13,16 +13,16 @@ hide_empty = true
 
 [colors]
 card_border = "none"
-empty = "#1a1d17"
-levels = ["#3a4d12", "#5d7d14", "#8fbf1a", "#c6f135"]
-today = "#c6f135"
-title = "#f2f5ec"
-text = "#8a9180"
-accent = "#c6f135"
-page_background = "#0b0d0a"
+empty = "#1c1813"
+levels = ["#4a2f05", "#7a4b06", "#c47a0a", "#ffa116"]
+today = "#ffa116"
+title = "#f5f0e8"
+text = "#948a7c"
+accent = "#ffa116"
+page_background = "#0e0b07"
 
 [font]
-google = "JetBrains Mono"
+google = "Michroma"
 google_weights = [400, 700]
 title_google = "Michroma"
 title_size = 13
