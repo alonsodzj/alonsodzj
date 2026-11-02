@@ -17,7 +17,7 @@ empty = "#1c1813"
 levels = ["#4a2f05", "#7a4b06", "#c47a0a", "#ffa116"]
 today = "#ffa116"
 title = "#f5f0e8"
-text = "#948a7c"
+text = "#969696"
 accent = "#ffa116"
 page_background = "#none"
 
