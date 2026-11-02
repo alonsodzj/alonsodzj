@@ -2,3 +2,47 @@ user = "alonsodzj"
 lang = "en"
 file = "leetcode-heatmap.svg"
 page = "leetcode-heatmap.html"
+
+[layout]
+padding = 5
+cell_size = 12
+scale = 1.2
+
+[cell]
+hide_empty = true
+
+[colors]
+card_border = "#2a3020"
+empty = "#1a1d17"
+levels = ["#3a4d12", "#5d7d14", "#8fbf1a", "#c6f135"]
+today = "#c6f135"
+title = "#f2f5ec"
+text = "#8a9180"
+accent = "#c6f135"
+page_background = "#0b0d0a"
+
+[font]
+google = "JetBrains Mono"
+google_weights = [400, 700]
+title_google = "Michroma"
+title_size = 13
+title_weight = 700
+subtitle_size = 10
+letter_spacing = 0.3
+uppercase_title = true
+
+[weekdays]
+show = false
+
+[legend]
+show = false
+less = "-"
+more = "+"
+
+[animation]
+type = "pop"
+order = "diagonal"
+animate_text = true
+
+[interaction]
+effect = "repel"
