@@ -20,5 +20,6 @@
   <a href="mailto:alonsodzjz@gmail.com"><img src="gmail.svg" height="55" align="right" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/alonso-d%C3%ADaz-jim%C3%A9nez-307b34416/"><img src="linkedin.svg" height="55" align="right" alt="LinkedIn"></a>
 </p>
-[![LeetCode](leetcode.svg)](https://alonsodzj.github.io/alonsodzj/)
 <br clear="right">
+
+[![LeetCode](leetcode.svg)](https://alonsodzj.github.io/alonsodzj/)
