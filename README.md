@@ -22,4 +22,4 @@
 </p>
 <br clear="right">
 <a href="https://leetcode.com/u/alonsodzj/"><img src="leetcode-heatmap.svg" height="60" alt="LeetCode"></a>
-[![LeetCode](leetcode-heatmap.svg)](https://leetcode.com/u/alonsodzj/)
+<a href="https://leetcode.com/u/alonsodzj/"><img src="leetcode-heatmap.svg" width="100%" alt="LeetCode"></a>
