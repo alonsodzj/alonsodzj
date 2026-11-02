@@ -19,7 +19,7 @@ today = "#ffa116"
 title = "#f5f0e8"
 text = "#948a7c"
 accent = "#ffa116"
-page_background = "#0e0b07"
+page_background = "#none"
 
 [font]
 google = "Michroma"
