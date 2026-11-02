@@ -21,5 +21,5 @@
   <a href="https://www.linkedin.com/in/alonso-d%C3%ADaz-jim%C3%A9nez-307b34416/"><img src="linkedin.svg" height="55" align="right" alt="LinkedIn"></a>
 </p>
 <br clear="right">
-
-[![LeetCode](leetcode-heatmap.svg)](https://alonsodzj.github.io/alonsodzj/)
+<a href="https://leetcode.com/u/alonsodzj/"><img src="leetcode-heatmap.svg" height="60" alt="LeetCode"></a>
+[![LeetCode](leetcode-heatmap.svg)](https://leetcode.com/u/alonsodzj/)
