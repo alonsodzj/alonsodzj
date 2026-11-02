@@ -22,4 +22,4 @@
 </p>
 <br clear="right">
 
-[![LeetCode](leetcode.svg)](https://alonsodzj.github.io/alonsodzj/)
+[![LeetCode](leetcode-heatmap.svg)](https://alonsodzj.github.io/alonsodzj/)
