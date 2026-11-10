@@ -13,12 +13,12 @@ hide_empty = true
 
 [colors]
 card_border = "none"
-empty = "#1c1813"
-levels = ["#4a2f05", "#7a4b06", "#c47a0a", "#ffa116"]
-today = "#ffa116"
-title = "#f5f0e8"
+empty = "#1c1c1c"
+levels = ["#0e4429", "#006d32", "#26a641", "#76ff03"]
+today = "#76ff03"
+title = "#f5f5f5"
 text = "#969696"
-accent = "#ffa116"
+accent = "#76b900"
 page_background = "#none"
 
 [font]
@@ -43,5 +43,5 @@ more = "+"
 type = "pop"
 order = "diagonal"
 loop = true
-loop_pause = 3
+loop_pause = 1
 animate_text = true
